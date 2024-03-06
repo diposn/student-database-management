@@ -25,8 +25,15 @@ Place the "Student.accdb" file in the same directory as the executable file gene
 - Press 'Q' to quit the program.
 
 ## Contributing
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions to this repository are welcome. If you have any suggestions, improvements, or additional analyses related to automobile sales during recession periods, please feel free to contact me directly at [kcdipson18@gmail.com]
 
 
+## License
+
+This project is licensed under the MIT License.
+
+Please note that the code and analyses provided in this repository are for educational and informational purposes only.
+
+For any questions or further information, please contact Dipson K C at [kcdipson18@gmail.com]
 
 
